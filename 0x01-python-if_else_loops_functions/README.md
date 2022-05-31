@@ -2,12 +2,12 @@
 
 # Resources
 
-> [more control flow tools](https://docs.python.org/3/tutorial/controlflow.html)
-> [Indention Error](https://www.youtube.com/watch?v=1QXOd2ZQs-Q)
-> [How to use string formatters in python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
-> [Learn to program](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
-> [Learn to program 2 : looping](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
-> [pycodestyle - style Guide to python coding](https://pypi.org/project/pycodestyle)]
+* [more control flow tools](https://docs.python.org/3/tutorial/controlflow.html)
+* [Indention Error](https://www.youtube.com/watch?v=1QXOd2ZQs-Q)
+* [How to use string formatters in python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
+* [Learn to program](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
+* [Learn to program 2 : looping](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
+* [pycodestyle - style Guide to python coding](https://pypi.org/project/pycodestyle)
 
 ## Files
 
