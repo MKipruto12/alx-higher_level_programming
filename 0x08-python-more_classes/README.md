@@ -1,5 +1,7 @@
 # Python - More classes and objects
 
+![alt text](https://www.crestbook.com/files/Judit-photo1_602x433.jpg)
+
 ## Resources
 * [Object-Oriented Programming](https://python-course.eu/oop/object-oriented-programming.php)(Please be careful: in most of the following paragraphs, the author shows the way you should not use or write a class, in order to help you better understand some concepts and how everything works in Python 3. Make sure you read only the following paragraphs: “General Introduction,” “First-class Everything,” “A Minimal Class in Python,” “Attributes,” “Methods,” “The __init__ Method,” “Data Abstraction, Data Encapsulation, and Information Hiding,” “__str__- and __repr__-Methods,” “Public- Protected- and Private Attributes,” & “Destructor”)
 * [Object Oriented Programming](python.swaroopch.com/oop.html) (Read everything until the paragraph “Inheritance” (excluded))
